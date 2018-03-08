@@ -7,6 +7,7 @@ end
 
 gem 'rails', '~> 5.1.5'
 
+gem 'graphql'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.7'
 
